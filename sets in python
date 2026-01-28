@@ -1,25 +1,24 @@
-# # sets
-# set={1,2,3,4,"Sussu",1.99}
-# print(set)
-# print(type(set))
-# print(len(set))
+ sets
+ set={1,2,3,4,"Sussu",1.99}
+ print(set)
+ print(type(set))
+ print(len(set))
 
-# subejcts= {
-#     "Python","java","c++","python","java","python","java","c++","c"
-# }
-# print(subejcts)
-# print(len(subejcts))
+ subejcts= {
+     "Python","java","c++","python","java","python","java","c++","c" }
+ print(subejcts)
+ print(len(subejcts))
 
-# set={10,20,30,40,50}
-# print(set)
+ set={10,20,30,40,50}
+ print(set)
 
-# numbers = {10, 20, 30}
-# numbers.add(60)
-# print(numbers)
+ numbers = {10, 20, 30}
+ numbers.add(60)
+ print(numbers)
 
-# nums = {10, 20, 30, 40}
-# nums.remove(20)
-# print(nums)
+ nums = {10, 20, 30, 40}
+ nums.remove(20)
+ print(nums)
 
 marks = [85, 90, 85, 92, 90, 88]
 my_set=set(marks)
